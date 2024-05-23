@@ -1,0 +1,14 @@
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/bin/Debug/net7.0/salary-app-csharp-v_1
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/bin/Debug/net7.0/salary-app-csharp-v_1.deps.json
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/bin/Debug/net7.0/salary-app-csharp-v_1.runtimeconfig.json
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/bin/Debug/net7.0/salary-app-csharp-v_1.dll
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/bin/Debug/net7.0/salary-app-csharp-v_1.pdb
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/obj/Debug/net7.0/salary-app-csharp-v_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/obj/Debug/net7.0/salary-app-csharp-v_1.AssemblyInfoInputs.cache
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/obj/Debug/net7.0/salary-app-csharp-v_1.AssemblyInfo.cs
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/obj/Debug/net7.0/salary-app-csharp-v_1.csproj.CoreCompileInputs.cache
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/obj/Debug/net7.0/salary-app-csharp-v_1.dll
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/obj/Debug/net7.0/refint/salary-app-csharp-v_1.dll
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/obj/Debug/net7.0/salary-app-csharp-v_1.pdb
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/obj/Debug/net7.0/salary-app-csharp-v_1.genruntimeconfig.cache
+/Users/owner/Documents/Sazan Consultant/salary-app-csharp-v_1/obj/Debug/net7.0/ref/salary-app-csharp-v_1.dll
